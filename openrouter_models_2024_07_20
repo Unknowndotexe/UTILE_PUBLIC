@@ -1,0 +1,19 @@
+# OpenRouter models
+
+# Lista completă de modele disponibile pe OpenRouter (actualizată la 2024-07-20)
+AVAILABLE_MODELS = [
+    "deepseek/deepseek-chat-v3-0324",
+    "google/gemini-pro",
+    "anthropic/claude-3-haiku",
+    "anthropic/claude-3-sonnet",
+    "anthropic/claude-3-opus",
+    "openai/gpt-3.5-turbo",
+    "openai/gpt-4-turbo",
+    "openai/gpt-4o",
+    "meta-llama/llama-3-70b-instruct",
+    "meta-llama/llama-3-8b-instruct",
+    "mistralai/mistral-7b-instruct",
+    "mistralai/mixtral-8x7b-instruct",
+    "perplexity/pplx-70b-online",
+    "perplexity/pplx-7b-online"
+]
